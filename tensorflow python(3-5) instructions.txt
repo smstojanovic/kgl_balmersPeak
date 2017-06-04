@@ -1,0 +1,107 @@
+## install anaconda
+wget http://repo.continuum.io/archive/Anaconda3-4.4.0-Linux-x86_64.sh
+bash Anaconda3-4.4.0-Linux-x86_64.sh -b
+echo 'PATH="/home/ubuntu/anaconda3/bin:$PATH"' >> .bashrc
+. .bashrc
+cd ~
+
+## install cuda tools 8.0
+sudo apt-get update
+sudo apt-get install gcc 
+sudo apt-get -y upgrade
+sudo apt-get -y install linux-headers-$(uname -r) 
+## optional ##
+### sudo apt-get -y install linux-headers-$(uname -r) linux-image-extra-`uname -r` ###
+wget http:// http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
+sudo dpkg -i cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
+sudo rm cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
+sudo apt-get update
+sudo apt-get install -y cuda
+
+## change the LD_LIBRARY_PATH and PATH variables
+## as per: http://docs.nvidia.com/cuda/cuda-installation-guide-linux/#axzz4VZnqTJ2A
+$ export PATH=/usr/local/cuda-8.0/bin${PATH:+:${PATH}}
+$ export LD_LIBRARY_PATH=/usr/local/cuda-8.0/lib64\
+                         ${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+
+## install CudNN 5.1 (v6 is currently in dropbox but tensorflow doesn't support it)
+sudo wget https://www.dropbox.com/s/90a3rhw2lg28r4w/cudnn-8.0-linux-x64-v5.1.tgz
+sudo tar xvzf cudnn-8.0-linux-x64-v5.1.tgz
+sudo rm cudnn-8.0-linux-x64-v5.1.tgz
+sudo cp cuda/include/cudnn.h /usr/local/cuda/include
+sudo cp cuda/lib64/libcudnn* /usr/local/cuda/lib64
+sudo chmod a+r /usr/local/cuda/include/cudnn.h /usr/local/cuda/lib64/libcudnn*
+
+## create CUDA_HOME variable
+export CUDA_HOME=/usr/local/cuda
+
+## create tensorflow environment
+conda create -n tensorflow python=3.5
+source activate tensorflow 
+
+## install tensorflow
+pip install tensorflow-gpu
+
+## confirm this works
+python
+import tensorflow as tf
+## you shouldn't see any errors. If so then this doc needs to be re-written, otherwise continue
+exit()
+
+## install anaconda and R
+conda install anaconda
+source deactivate tnesorflow
+sudo apt-get install r-base r-base-dev
+source activate tnesorflow
+conda install -c r r-essentials
+
+## change PATH
+### ideally copy and apste but we want to change the default path from /home/ubuntu/anaconda3/bin to the tensorflow environment one.
+### this is because we are going to set up jupyter with certs and password protection so we can access it from anywhere.
+export PATH=/usr/local/cuda-8.0/bin:/home/ubuntu/anaconda3/envs/tensorflow/bin:/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+
+##
+jupyter notebook --generate-config
+key=$(python -c "from notebook.auth import passwd; print(passwd())")
+
+### enter your password ###
+
+cd ~
+mkdir certs
+cd certs
+certdir=$(pwd)	
+openssl req -x509 -nodes -days 365 -newkey rsa:1024 -keyout mycert.key -out mycert.pem
+
+### fill in cert details ###
+cd ~
+sed -i "1 a\
+c = get_config()\\
+c.NotebookApp.certfile = u'$certdir/mycert.pem'\\
+c.NotebookApp.keyfile = u'$certdir/mycert.key'\\
+c.NotebookApp.ip = '*'\\
+c.NotebookApp.open_browser = False\\
+c.NotebookApp.password = u'$key'\\
+c.NotebookApp.port = 8888" .jupyter/jupyter_notebook_config.py
+
+
+################################# end of DS environemnt setup ###############################################
+
+
+## to run, navigate to a folder or create it
+##e.g.
+cd ~
+mkdir .Repositories
+git clone https://github.com/smstojanovic/kgl_balmersPeak.git
+
+### make changes ###
+
+git add -A
+git commit -m "your message"
+git push origin master
+#or
+git push
+
+
+
+
+
