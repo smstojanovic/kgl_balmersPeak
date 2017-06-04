@@ -60,6 +60,9 @@ conda install -c r r-essentials
 ### this is because we are going to set up jupyter with certs and password protection so we can access it from anywhere.
 export PATH=/usr/local/cuda-8.0/bin:/home/ubuntu/anaconda3/envs/tensorflow/bin:/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
 
+echo 'export PATH=/usr/local/cuda-8.0/bin:/home/ubuntu/anaconda3/envs/tensorflow/bin:/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin' >> .bashrc
+. .bashrc
+
 ##
 jupyter notebook --generate-config
 key=$(python -c "from notebook.auth import passwd; print(passwd())")
