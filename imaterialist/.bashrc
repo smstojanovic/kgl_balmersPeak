@@ -1,1 +1,2 @@
 export PATH=/usr/local/cuda-8.0/bin:/home/ubuntu/anaconda3/envs/tensorflow/bin:/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin
+export PATH="/usr/local/cuda-8.0/bin:/home/ubuntu/anaconda3/envs/tensorflow/bin:/home/ubuntu/bin:/home/ubuntu/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin"
