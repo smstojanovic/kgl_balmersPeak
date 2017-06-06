@@ -1,0 +1,55 @@
+[I 07:58:04.053 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 07:58:42.439 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Projects/.Repositories/kgl_balmersPeak/imaterialist
+[I 07:58:42.439 NotebookApp] 0 active kernels 
+[I 07:58:42.439 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 07:58:42.439 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 07:58:53.874 NotebookApp] 302 GET / (210.84.24.239) 0.62ms
+[I 07:58:54.120 NotebookApp] 302 GET /tree? (210.84.24.239) 0.99ms
+[I 07:59:03.411 NotebookApp] 302 POST /login?next=%2Ftree%3F (210.84.24.239) 1.18ms
+[I 07:59:34.442 NotebookApp] Kernel started: e2427dcb-ba53-437a-b693-19a2458f0db9
+[I 08:01:34.780 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:03:34.777 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:05:34.776 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:07:34.777 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:09:34.777 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:11:34.854 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:13:34.852 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:15:34.851 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:17:34.855 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:19:34.852 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:21:34.770 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:23:34.771 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:25:34.771 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:27:34.767 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:29:34.766 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:31:34.764 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:33:34.764 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:35:34.762 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:37:34.761 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:39:34.762 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:41:34.761 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:43:34.760 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:45:34.759 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:47:34.760 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:49:34.759 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:51:34.760 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:53:34.759 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:55:34.759 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:57:34.758 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 08:59:34.758 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:01:34.755 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:03:34.751 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:05:34.747 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:07:37.523 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:09:36.908 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:11:34.938 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:13:35.003 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:15:34.737 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:25:35.244 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:27:34.738 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:27:41.100 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:28:05.862 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:28:19.428 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:29:34.821 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:30:57.768 NotebookApp] Saving file at /python first look and load data.ipynb
+[I 09:31:07.416 NotebookApp] Saving file at /python first look and load data.ipynb
