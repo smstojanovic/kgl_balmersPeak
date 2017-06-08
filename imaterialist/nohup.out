@@ -326,3 +326,27 @@
     }
 [E 09:43:11.290 NotebookApp] 500 PATCH /api/contents/python%20first%20play.ipynb (210.84.24.239) 10.83ms referer=https://ec2-34-200-217-61.compute-1.amazonaws.com:8888/notebooks/python%20first%20play.ipynb
 [I 09:43:12.754 NotebookApp] Saving file at /python get and write dataframes.ipynb
+[I 09:45:48.938 NotebookApp] Saving file at /python get and write dataframes.ipynb
+[I 09:45:55.033 NotebookApp] Saving file at /python get and write dataframes.ipynb
+[C 09:50:07.313 NotebookApp] received signal 15, stopping
+[I 09:50:07.315 NotebookApp] Shutting down kernels
+[I 09:50:07.416 NotebookApp] Kernel shutdown: 7ea672f4-5a9e-42b4-8405-67b5159cc7f3
+[I 09:50:07.416 NotebookApp] Kernel shutdown: 55ffae06-6098-4ed0-8312-da8222ec6e4d
+[I 08:29:32.899 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 08:30:02.400 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Projects/.Repositories/kgl_balmersPeak/imaterialist
+[I 08:30:02.400 NotebookApp] 0 active kernels 
+[I 08:30:02.400 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 08:30:02.401 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 08:30:08.507 NotebookApp] 302 GET / (210.84.24.239) 0.63ms
+[I 08:30:08.753 NotebookApp] 302 GET /tree? (210.84.24.239) 0.86ms
+[W 08:30:51.551 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.84.24.239) 1.65ms referer=https://ec2-52-23-181-20.compute-1.amazonaws.com:8888/login?next=%2Ftree%3F
+[W 08:31:24.441 NotebookApp] 401 POST /login?next=%2Ftree%3F (210.84.24.239) 1.49ms referer=https://ec2-52-23-181-20.compute-1.amazonaws.com:8888/login?next=%2Ftree%3F
+[I 08:31:45.342 NotebookApp] 302 POST /login?next=%2Ftree%3F (210.84.24.239) 1.11ms
+[I 08:34:54.950 NotebookApp] Creating new notebook in 
+[I 08:35:05.371 NotebookApp] Kernel started: 94e538ba-3600-4539-977c-e48d50979a27
+[I 08:37:05.536 NotebookApp] Saving file at /Untitled.ipynb
+[I 08:37:39.329 NotebookApp] Kernel started: 30ec25ab-8b97-4862-b84c-c39238eb2e79
+[I 08:39:05.547 NotebookApp] Saving file at /python first analysis.ipynb
+[I 08:40:07.083 NotebookApp] Kernel started: 945d0ce4-4718-4f2c-8e65-345a6b25fb2e
+[I 08:41:05.563 NotebookApp] Saving file at /python first analysis.ipynb
+[I 08:41:39.232 NotebookApp] Saving file at /python first analysis.ipynb
