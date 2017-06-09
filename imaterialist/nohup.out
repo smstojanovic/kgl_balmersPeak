@@ -2396,3 +2396,996 @@ zmq.error.ZMQError: Address already in use
 [I 11:11:29.068 NotebookApp] Kernel shutdown: cdec0a71-c6c7-4b98-8963-656e894ab385
 [I 11:11:29.069 NotebookApp] Kernel shutdown: 30ec25ab-8b97-4862-b84c-c39238eb2e79
 [I 11:11:29.069 NotebookApp] Kernel shutdown: 945d0ce4-4718-4f2c-8e65-345a6b25fb2e
+[I 10:32:55.518 NotebookApp] Writing notebook server cookie secret to /run/user/1000/jupyter/notebook_cookie_secret
+[I 10:33:39.194 NotebookApp] Serving notebooks from local directory: /home/ubuntu/Projects/.Repositories/kgl_balmersPeak/imaterialist
+[I 10:33:39.194 NotebookApp] 0 active kernels 
+[I 10:33:39.194 NotebookApp] The Jupyter Notebook is running at: https://[all ip addresses on your system]:8888/
+[I 10:33:39.194 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 10:36:26.847 NotebookApp] 302 GET / (210.84.24.239) 0.66ms
+[I 10:36:27.249 NotebookApp] 302 GET /tree? (210.84.24.239) 1.05ms
+[I 10:36:37.788 NotebookApp] 302 POST /login?next=%2Ftree%3F (210.84.24.239) 1.16ms
+[I 10:40:35.481 NotebookApp] Creating new notebook in 
+[I 10:40:49.990 NotebookApp] Kernel started: 0eb10963-fa1e-4f11-b0d4-739755a74df4
+[I 10:41:25.662 NotebookApp] Kernel started: 2f834f62-8ada-4795-a5b2-d40981725d4a
+[I 10:42:50.058 NotebookApp] Saving file at /python first model.ipynb
+[I 10:42:58.603 NotebookApp] Saving file at /python first model.ipynb
+[I 10:43:09.108 NotebookApp] Saving file at /python first model.ipynb
+[I 10:43:51.236 NotebookApp] Saving file at /python first model.ipynb
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+[I 10:44:50.056 NotebookApp] Saving file at /python first model.ipynb
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+Premature end of JPEG file
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
+OpenCV Error: Assertion failed (ssize.width > 0 && ssize.height > 0) in resize, file /io/opencv/modules/imgproc/src/imgwarp.cpp, line 3492
