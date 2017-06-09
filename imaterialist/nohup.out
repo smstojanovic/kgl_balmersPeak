@@ -2391,3 +2391,8 @@ zmq.error.ZMQError: Address already in use
 [I 11:08:42.566 NotebookApp] Kernel shutdown: 01615557-f891-4a92-9d9d-ceb496f91fe7
 [I 11:08:42.826 NotebookApp] Kernel started: cdec0a71-c6c7-4b98-8963-656e894ab385
 [I 11:09:05.539 NotebookApp] Saving file at /python first analysis.ipynb
+[C 11:11:28.966 NotebookApp] received signal 15, stopping
+[I 11:11:28.967 NotebookApp] Shutting down kernels
+[I 11:11:29.068 NotebookApp] Kernel shutdown: cdec0a71-c6c7-4b98-8963-656e894ab385
+[I 11:11:29.069 NotebookApp] Kernel shutdown: 30ec25ab-8b97-4862-b84c-c39238eb2e79
+[I 11:11:29.069 NotebookApp] Kernel shutdown: 945d0ce4-4718-4f2c-8e65-345a6b25fb2e
